@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'react-native-horror',
+  title: 'horror-ui',
   tagline: 'react-native-horror are cool',
   favicon: 'img/favicon.ico',
 
@@ -11,12 +11,12 @@ const config: Config = {
   url: 'https://husseinpenart.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/horror-ui-document-web/',
-
+  baseUrl: '/horror-ui-doc/',
+  trailingSlash: false,
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'husseinpenart', // Usually your GitHub org/user name.
-  projectName: 'horror-ui-document-web', // Usually your repo name.
+  projectName: 'horror-ui-doc', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
@@ -38,14 +38,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/husseinpenart/horror-ui',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/husseinpenart/horror-ui',
         },
         theme: {
           customCss: './src/css/custom.css',

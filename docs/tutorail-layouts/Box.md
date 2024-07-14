@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Box
+# Box 🆕
 
 box works as a View element
 

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# layout
+# layout 🆕
 
 layout works as a View SafeAreaView
 

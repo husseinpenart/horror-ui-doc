@@ -2,7 +2,7 @@
 sidebar_position: 15
 ---
 
-## BottomSheet
+# BottomSheet 🆕
 
 ```jsx or tsx or js
 const BottomSheet = () => {

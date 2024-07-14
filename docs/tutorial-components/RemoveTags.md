@@ -2,7 +2,7 @@
 sidebar_position: 17
 ---
 
-# RemoveHtmlTags
+# RemoveHtmlTags 🆕
 
 RemoveHtmlTags is for removing any tags such as html tags
 

@@ -2,7 +2,7 @@
 sidebar_position: 16
 ---
 
-# Truncate
+# Truncate 🆕
 
 Truncate making text short as mush as you want for and make short from which line too
 

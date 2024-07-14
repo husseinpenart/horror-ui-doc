@@ -1,17 +1,17 @@
 ---
-sidebar_position: 1
+sidebar_position: 6
 ---
 
-# layout
+# Box
 
-layout works as a View SafeAreaView
+box works as a View element
 
 ```jsx or tsx or js
-const AccordionBox = () => {
-  return <Layout></Layout>;
+const Box = () => {
+  return <Box></Box>;
 };
 
-export default AccordionBox;
+export default Box;
 ```
 
 # Api References

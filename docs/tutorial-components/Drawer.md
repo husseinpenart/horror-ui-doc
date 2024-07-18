@@ -5,7 +5,7 @@ sidebar_position: 18
 # Drawer 🆕
 
 ```jsx or tsx or js
-const BottomSheet = () => {
+const Drawer = () => {
   // drawer functions /
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
 
@@ -47,10 +47,10 @@ const styles = StyleSheet.create({
   },
 });
 
-export default BottomSheet;
+export default Drawer;
 ```
 
-# Api References for Bottom_Sheet
+# Api References for Drawer
 
 ##
 
